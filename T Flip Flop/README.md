@@ -30,6 +30,11 @@ The T flip-flop consists of a single input, T (toggle), and two outputs, Q (norm
 
 T flip-flops can be implemented using various methods, including using basic logic gates such as NAND gates or NOR gates, or using more complex sequential logic circuits.
 
+## Simulated WaveForms
+
+- Wave-Form of the simulation without Clock:
+  ![JK Flip-Flop waveform without Clock](waveform1.png)
+
 ## Conclusion
 
 The T flip-flop is a simple yet powerful sequential logic device widely used in digital circuits for various applications. Understanding its operation and characteristics is fundamental in digital circuit design.
