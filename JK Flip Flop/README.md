@@ -34,6 +34,13 @@ The JK flip-flop consists of two inputs, J (set) and K (reset), and two outputs,
 
 JK flip-flops can be constructed using basic logic gates such as NAND gates or NOR gates.
 
+## Simulated WaveForms
+
+-Wave-Form of the simulation without Clock:
+![JK Flip-Flop waveform without Clock](waveform1.png)
+-Wave-Form of the simulation with Clock:
+![JK Flip-Flopwaveform with Clock](waveform2.png)
+
 ## Conclusion
 
 The JK flip-flop is a versatile sequential logic device with multiple applications in digital electronics. Understanding its operation and characteristics is fundamental in digital circuit design.
