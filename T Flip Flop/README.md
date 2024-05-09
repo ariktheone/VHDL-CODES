@@ -6,7 +6,7 @@ The T flip-flop is a type of sequential logic device that can store one bit of i
 
 The T flip-flop consists of a single input, T (toggle), and two outputs, Q (normal output) and Q' (complementary output).
 
-![T Flip-Flop Diagram](diagram.png)
+![T Flip-Flop Diagram]([diagram.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.oemsecrets.com%2Farticles%2Funderstanding-the-t-flip-flop&psig=AOvVaw0AZtyLnmIc5_344EsxPNks&ust=1715367477538000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNCm44qggYYDFQAAAAAdAAAAABAZ))
 
 ## Operation
 
