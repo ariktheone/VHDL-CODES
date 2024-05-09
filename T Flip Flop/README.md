@@ -32,8 +32,8 @@ T flip-flops can be implemented using various methods, including using basic log
 
 ## Simulated WaveForms
 
-- Wave-Form of the simulation without Clock:
-  ![JK Flip-Flop waveform without Clock](waveform1.png)
+- Wave-Form of the simulation with Clock:
+  ![T Flip-Flop waveform with Clock](waveform1.png)
 
 ## Conclusion
 
