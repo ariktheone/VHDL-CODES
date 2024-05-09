@@ -19,10 +19,10 @@ The JK flip-flop consists of two inputs, J (set) and K (reset), and two outputs,
 
 | J | K | Q(t) | Q(t+1) |
 |---|---|------|--------|
-| 0 | 0 |  Q   |   Q    |
+| 0 | 0 |    Memory     |
 | 0 | 1 |  Q   |   0    |
 | 1 | 0 |  Q   |   1    |
-| 1 | 1 |  Q   |  !Q    |
+| 1 | 1 |    !Memory    |
 
 ## Applications
 
