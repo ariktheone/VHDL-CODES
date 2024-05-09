@@ -38,6 +38,7 @@ JK flip-flops can be constructed using basic logic gates such as NAND gates or N
 
 -Wave-Form of the simulation without Clock:
 ![JK Flip-Flop waveform without Clock](waveform1.png)
+
 -Wave-Form of the simulation with Clock:
 ![JK Flip-Flopwaveform with Clock](waveform2.png)
 
