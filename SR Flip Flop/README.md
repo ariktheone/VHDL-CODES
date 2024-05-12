@@ -24,6 +24,12 @@ The SR flip-flop typically consists of two NAND gates or two NOR gates. The outp
 | 1 | 0 |   1   |   0    |
 | 1 | 1 |Invalid|Invalid |
 
+## Simulated WaveForms
+
+- Wave-Form of the simulation with Clock:
+  ![SR Flip-Flop waveform without Clock](waveform1.png)
+
+
 ## Applications
 
 - **Latch**: The SR flip-flop can be used to create a simple latch circuit for temporary storage of data.
