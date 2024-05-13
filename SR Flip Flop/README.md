@@ -22,7 +22,7 @@ The SR flip-flop typically consists of two NAND gates or two NOR gates. The outp
 | 0 | 0 |Memory | Memory |
 | 0 | 1 |   0   |   1    |
 | 1 | 0 |   1   |   0    |
-| 1 | 1 |Invalid|Invalid |
+| 1 | 1 |Invalid(Z)|Invalid(Z) |
 
 ## Simulated WaveForms
 
