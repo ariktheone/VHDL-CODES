@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 ## About Me
 
-I'm Arijit, currently in my second year of Electronics and Communication Engineering (ECE) undergraduate studies. Passionate about technology and its applications, I spend most of my time coding, researching, and exploring the fascinating world of electronics and communication systems.
+I'm Arijit, currently in my second year of Electronics and Communication Engineering (ECE) undergraduate studies at IEM, Kolkata. Passionate about technology and its applications, I spend most of my time coding, researching, and exploring the fascinating world of electronics and communication systems.
 
 ## Education
 
@@ -20,21 +20,19 @@ I'm Arijit, currently in my second year of Electronics and Communication Enginee
 
 ## Why Verilog and VHDL?
 
-As an Electronics and Communication Engineering student, proficiency in Hardware Description Languages (HDLs) like Verilog and VHDL is crucial for several reasons:
+As an ECE student, studying Verilog and VHDL is crucial for several reasons:
 
-1. **Digital System Design:** Verilog and VHDL are used for designing and simulating digital systems, including circuits and systems on a chip (SoCs). Understanding these languages enables students to model complex digital designs efficiently.
+1. **Hardware Description Languages (HDLs):** Verilog and VHDL are hardware description languages used for modeling and simulating digital circuits. Understanding these languages allows me to design and analyze complex digital systems, which is essential for an ECE student.
+   
+2. **FPGA and ASIC Design:** Verilog and VHDL are widely used in the design and implementation of Field-Programmable Gate Arrays (FPGAs) and Application-Specific Integrated Circuits (ASICs). These technologies are integral to many electronic devices and systems, making proficiency in HDLs highly valuable.
 
-2. **FPGA Programming:** Field-Programmable Gate Arrays (FPGAs) are widely used in ECE for prototyping and implementing digital circuits. Verilog and VHDL are the primary languages used for programming FPGAs, making them essential skills for hardware development.
-
-3. **ASIC Design:** Application-Specific Integrated Circuit (ASIC) design often involves using Verilog and VHDL for designing custom digital circuits tailored to specific applications. Knowledge of these languages is vital for ASIC design engineers.
-
-4. **Embedded Systems Development:** Many embedded systems, including microcontrollers and processors, are designed using HDLs like Verilog and VHDL. Proficiency in these languages is beneficial for students interested in embedded systems development.
+3. **Embedded Systems Development:** Knowledge of Verilog and VHDL is beneficial for developing embedded systems, where hardware and software interact closely. By mastering these languages, I can effectively contribute to the development of embedded systems for various applications.
 
 ## Contact Me
 
 Feel free to reach out to me through the following channels:
 - **GitHub:** [Arijit Mondal](https://github.com/yourusername)
 - **LinkedIn:** [Arijit Mondal](https://www.linkedin.com/in/yourlinkedinprofile/)
-- **Email:** [arijitmondal200430@gamil.com](mailto:arijitmondal200430@gamil.com)
+- **Email:** [arijitmondal200430@gmail.com](mailto:arijitmondal200430@gmail.com)
 
 Let's connect and explore the exciting world of ECE together! 🚀
