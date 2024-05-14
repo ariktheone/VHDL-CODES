@@ -31,8 +31,8 @@ As an ECE student, studying Verilog and VHDL is crucial for several reasons:
 ## Contact Me
 
 Feel free to reach out to me through the following channels:
-- **GitHub:** [Arijit Mondal](https://github.com/yourusername)
-- **LinkedIn:** [Arijit Mondal](https://www.linkedin.com/in/yourlinkedinprofile/)
+- **GitHub:** [Arijit Mondal](https://github.com/ariktheone)
+- **LinkedIn:** [Arijit Mondal](https://www.linkedin.com/in/arijitmondal30/)
 - **Email:** [arijitmondal200430@gmail.com](mailto:arijitmondal200430@gmail.com)
 
 Let's connect and explore the exciting world of ECE together! 🚀
